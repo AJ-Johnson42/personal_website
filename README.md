@@ -1,2 +1,2 @@
-# Personal-Website
+# personal_website
  AJs Personal Portfolio
